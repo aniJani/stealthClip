@@ -1,0 +1,4 @@
+pyperclip
+cryptography
+pystray
+Pillow
